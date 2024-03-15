@@ -4,9 +4,9 @@ const Header  = () => {
     return( 
     <>
         <header>
-            <img src="/channels4_profile.jpg" alt="Logo NetMovies" className="logo"/>
+            <img src="/max_logo.svg" alt="Logo NetMovies" className="logo"/>
         
-            <p>Os melhores filmes estão aqui</p>
+            <p>OS MELHORES FILMES ESTÃO AQUI</p>
             
         </header>
     </>);

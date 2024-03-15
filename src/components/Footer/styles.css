@@ -1,5 +1,7 @@
 footer{
-    background-color: gray;
+    background-color: #07071c;
     padding: 1rem;
     text-align: center;
+    color: white;
+    font-size: 14px;
 }
